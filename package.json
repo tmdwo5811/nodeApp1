@@ -1,0 +1,22 @@
+{
+  "name": "nodeapp1",
+  "version": "1.0.0",
+  "description": "Chorme Web app _ todoList",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tmdwo5811/nodeApp1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tmdwo5811/nodeApp1/issues"
+  },
+  "homepage": "https://github.com/tmdwo5811/nodeApp1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
